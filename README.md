@@ -33,3 +33,7 @@ Here are some ideas to get you started:
 #### I am the maintainer of these packages & would highly appreciate your help in improvising these
 
 ![Laptop Price Predictor](https://github-readme-stats.vercel.app/api/pin/?username=sharmatriloknath&repo=laptop-price-predictor&show_icons=true)
+
+<p align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=sharmatriloknath" id="counter">
+</p>
