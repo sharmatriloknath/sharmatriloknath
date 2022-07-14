@@ -10,7 +10,7 @@ I'm an aspiring Data Scientist currently working in IBM with different roles (Ap
 - 💬 Ask me anything about ML / AI / Backend Development/API Integration.
 - 📫 How to reach me: sharmatriloknath336@gmail.com
 - ⚡ Fun fact:
-              The Zen of Python, by Tim Peters
+              *The Zen of Python, by Tim Peters
               Beautiful is better than ugly.
               Explicit is better than implicit.
               Simple is better than complex.
@@ -29,7 +29,7 @@ I'm an aspiring Data Scientist currently working in IBM with different roles (Ap
               Although never is often better than *right* now.
               If the implementation is hard to explain, it’s a bad idea.
               If the implementation is easy to explain, it may be a good idea.
-              Namespaces are one honking great idea — let’s do more of those! **
+              Namespaces are one honking great idea — let’s do more of those!*
 
 - 😄 Pronouns: He/Him
 - I help companies with code-reviews and Optimizing their Applications with Python.
