@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 ![Trilok's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharmatriloknath)
 
 #### I am the maintainer of these packages & would highly appreciate your help in improvising these
-
+  
+![spaceX predictor](https://github-readme-stats.vercel.app/api/pin/?username=sharmatriloknath&repo=SpaceX-Falcon-9-first-stage-Landing-Prediction&show_icons=true)
 ![Laptop Price Predictor](https://github-readme-stats.vercel.app/api/pin/?username=sharmatriloknath&repo=laptop-price-predictor&show_icons=true)
 ![indepth matplotlib](https://github-readme-stats.vercel.app/api/pin/?username=sharmatriloknath&repo=In-DepthMatplolib&show_icons=true)
 
