@@ -2,10 +2,10 @@
 #### I'm Trilok Nath [Pronounced as: Tri-Lok  Na-th].
 
 I've been working for the past three years & working on
-CPython (Python's Interpreter), Django Web Framework, Django REST Framework, Flask, etc.
+CPython (Python's Interpreter), Django Web Framework, Django REST Framework, Flask, Databricks, Apache Spark, Machine Learning etc.
 I'm an aspiring Data Scientist currently working in IBM with different roles (Application Developer,Data Scientist.)
 
-- 🔭 I’m currently working on Python/Django/Machine Learning.
+- 🔭 I’m currently working on Python/Spark/Machine Learning.
 - 🌱 I’m currently learning NLP.
 - 💬 Ask me anything about ML / AI / Backend Development/API Integration.
 - 📫 How to reach me: sharmatriloknath336@gmail.com
