@@ -1,9 +1,8 @@
 ### Hi there 👋
 #### I'm Trilok Nath [Pronounced as: Tri-Lok  Na-th].
 
-I've been working for the past three years & working on
-CPython (Python's Interpreter), Django Web Framework, Django REST Framework, Flask, Databricks, Apache Spark, Machine Learning etc.
-I'm an aspiring Data Scientist currently working in IBM with different roles (Application Developer,Data Scientist.)
+I've been working for the past four years & working on
+CPython (Python's Interpreter), GenerativeAI, LLMS, LVMS, Autogen, Microsoft azure, Watsonx, openAI, Django Web Framework, Django REST Framework, Flask, Databricks, Apache Spark, Machine Learning etc.
 
 - 🔭 I’m currently working on Generative AI.
 - 🌱 I’m currently learning LLMS, LVMS and Autogen.
