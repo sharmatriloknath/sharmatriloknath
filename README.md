@@ -5,8 +5,8 @@ I've been working for the past three years & working on
 CPython (Python's Interpreter), Django Web Framework, Django REST Framework, Flask, Databricks, Apache Spark, Machine Learning etc.
 I'm an aspiring Data Scientist currently working in IBM with different roles (Application Developer,Data Scientist.)
 
-- 🔭 I’m currently working on Python/Spark/Machine Learning.
-- 🌱 I’m currently learning NLP.
+- 🔭 I’m currently working on Generative AI.
+- 🌱 I’m currently learning LLMS, LVMS and Autogen.
 - 💬 Ask me anything about ML / AI / Backend Development/API Integration.
 - 📫 How to reach me: sharmatriloknath336@gmail.com
 - ⚡ Fun fact: If you type in string literals separated by a space, Python concatenates them together. So, ‘Hello’ ‘World’ becomes ‘HelloWorld’.
